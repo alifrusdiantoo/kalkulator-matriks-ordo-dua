@@ -1,0 +1,1 @@
+Matriks merupakan sekumpulan angka yang disusun dalam baris dan kolom sehingga membentuk larik persegi panjang. Angka-angka tersebut disebut elemen atau unsur dari matriks. Matriks memiliki pengaplikasi yang luas dalam bidang teknik, fisika, ekonomi, dan statistik serta berbagai cabang matematika
