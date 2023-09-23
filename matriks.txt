@@ -1,1 +1,3 @@
 Matriks merupakan sekumpulan angka yang disusun dalam baris dan kolom sehingga membentuk larik persegi panjang. Angka-angka tersebut disebut elemen atau unsur dari matriks. Matriks memiliki pengaplikasi yang luas dalam bidang teknik, fisika, ekonomi, dan statistik serta berbagai cabang matematika
+Matriks dapat dijumlahkan dan dikurangkan dengan sesama matriks yang memiliki ordo yang sama dengan cara elemen-elemen yang letaknya sama dijumlahkan atau dikurangkan.
+Selain itu, dua buah matriks dapat dikalikan apabila banyak kolom matriks A sama dengan banyak baris matriks B.
